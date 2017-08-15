@@ -1,2 +1,2 @@
-# todo
-Todo Application with Spring Boot, Angular JS, Hibernate, Java 8, Unit and Integration Tests
+# Todo Application
+This is a sample application about Spring Boot, AngularJS, Maven, Embedded Database(H2), Swagger etc
